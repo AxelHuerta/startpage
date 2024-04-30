@@ -7,15 +7,10 @@ export function App() {
           <h3>uam</h3>
           <ul>
             <li>
-              <a href="https://mvirtuami.izt.uam.mx/aulas/apresencial2/">
-                virtuami
-              </a>
-            </li>
-            <li>
               <a href="https://siipi.izt.uam.mx/login">siipi</a>
             </li>
             <li>
-              <a href="https://iquizayan.uam.mx:8443/sae/izt/aewbf001.omuestraframes?mod=1">
+              <a href="https://zacatlan.rec.uam.mx:8443/rec/izt/aewbf001.omuestraframes?mod=1">
                 siiuam
               </a>
             </li>
